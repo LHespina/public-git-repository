@@ -15,13 +15,8 @@
 </head>
 <body>
     <div class="card">
-        <h1>Welcome</h1>
+        <h1>THIS IS THE HOMEPAGE</h1>
 
-        <!-- Add a link to navigate to the login page -->
-        <p><a href="{{ route('login') }}">Login</a></p>
-
-        <!-- Add a link to navigate to the registration page -->
-        <p><a href="{{ route('register') }}">Register</a></p>
     </div>
 </body>
 </html>
